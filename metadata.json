@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Remix: Remix: Legacy-Lock: Life Continuity \u0026 Legacy Platform",
+  "description": "A premium, high-security digital legacy platform that protects, organizes, and gracefully transitions your digital estate through Life Continuity Mode™, Blockchain Proof-of-Existence, and AI-driven legacy planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
